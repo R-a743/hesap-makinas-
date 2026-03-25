@@ -6,8 +6,8 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir hesap m
 
 ## 🖼️ Demo
 
-Projeyi canlı olarak görmek için: [Buraya Git](https://kullaniciadi.github.io/proje-adi/)  
-_(GitHub Pages bağlantınızı buraya ekleyin)_
+Projeyi canlı olarak görmek için: [Buraya Git](https://r-a743.github.io/hesap-makinas-/)  
+
 
 ---
 
@@ -28,9 +28,4 @@ _(GitHub Pages bağlantınızı buraya ekleyin)_
 
 ---
 
-## 🚀 Projeyi Çalıştırma
 
-1. Bu repoyu klonlayın:
-
-```bash
-git clone https://github.com/kullaniciadi/proje-adi.git
