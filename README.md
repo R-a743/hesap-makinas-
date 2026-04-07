@@ -6,7 +6,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş basit bir hesap m
 
 ## 🖼️ Demo
 
-Projeyi canlı olarak görmek için: [Buraya Git](https://r-a743.github.io/hesap-makinas-/)  
+Projeyi canlı olarak görmek için: [Buraya Git]( https://r-a743.github.io/js-calculator-app/)  
 
 
 ---
